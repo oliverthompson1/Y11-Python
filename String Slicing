@@ -1,0 +1,13 @@
+Challenge 1)
+name = input("Enter Your Name")
+len(name)
+print("There are",len(name),"Letters In Your Name")
+
+Challenge 2)
+first = input(str("Enter Your First Name."))
+last = input (str("Enter Your Last Name."))
+
+full = (first + " " + last)
+print("Your Name is",full)
+len(full)
+print("There Are",len(full),"Letters In Your Name, Including The Space")
